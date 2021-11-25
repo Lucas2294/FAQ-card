@@ -22,7 +22,7 @@ body{
 }
 
     .contenedor{
-        background-image: url("/images/bg-pattern-desktop.svg");
+        background-image: url("./images/bg-pattern-desktop.svg");
         background-repeat: no-repeat, no-repeat;
         background-size: 70%;
         background-position-y: 30%;
@@ -40,7 +40,7 @@ body{
         .izq{
             width: 50%; height: auto;
             min-width: 45rem;
-            background-image: url("/images/illustration-woman-online-desktop.svg");
+            background-image: url("./images/illustration-woman-online-desktop.svg");
             background-repeat: no-repeat, no-repeat;
             background-size: 100%;
             background-position-y: 50%;
